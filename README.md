@@ -34,6 +34,7 @@ My experience includes designing REST APIs, real-time systems, authentication fl
 **Backend:** Node.js, Express, Java, Spring Boot, TypeScript  
 **Frontend:** React, TypeScript, JavaScript, HTML, CSS  
 **Databases:** MySQL, PostgreSQL, MongoDB, Redis
+
 **Realtime:** Socket.IO  
 **Cloud:** AWS (EC2, VPC, IAM - basics)  
 **Tools:** Git, GitHub, Docker, REST APIs
