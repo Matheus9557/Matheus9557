@@ -1,61 +1,85 @@
 # 👋 Matheus Gomes
 
-💻 Fullstack Developer | Node.js & React
-🚀 Focused on building scalable, maintainable and real-world applications
+💻 Software Engineer | Full Stack Developer  
+⚙️ Node.js | React | Java | TypeScript | AWS  
+🚀 Building scalable, production-ready and real-world systems
 
 ---
 
 ## 🧠 About Me
 
-Fullstack Developer with experience in building web applications using **Node.js and React**.
+Software Engineer focused on backend and full stack development, building scalable applications using **Node.js, React and Java (Spring Boot)**.
 
-I focus on creating structured, scalable and production-ready solutions, applying best practices such as clean code, API design and layered architecture.
+I work with real-world system design principles, focusing on clean architecture, maintainability and performance.
 
-* ⚙️ Strong experience with **REST APIs and backend architecture**
-* 🔐 Authentication and authorization (JWT)
-* 🧱 Organized and scalable code structure
-* 🚀 Focused on performance and real-world usability
+My experience includes designing REST APIs, real-time systems, authentication flows and relational database modeling.
+
+---
+
+## 🧩 Core Expertise
+
+- ⚙️ Backend development with **Node.js and Java (Spring Boot)**
+- 🔌 RESTful API design and integration
+- 🔐 Authentication & authorization (JWT-based systems)
+- 📡 Real-time applications using WebSockets (Socket.IO)
+- 🧱 Layered architecture (Controller / Service / Repository)
+- 🗄️ Relational and NoSQL databases
+- ☁️ Cloud fundamentals (AWS basics)
+- 🧹 Clean Code and software design principles
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React, JavaScript, HTML, CSS
-**Backend:** Node.js, Express
-**Database:** MongoDB, MySQL
-**Tools:** Git, GitHub, REST APIs
+**Backend:** Node.js, Express, Java, Spring Boot, TypeScript  
+**Frontend:** React, TypeScript, JavaScript, HTML, CSS  
+**Databases:** MySQL, PostgreSQL, MongoDB  
+**Realtime:** Socket.IO  
+**Cloud:** AWS (EC2, VPC, IAM - basics)  
+**Tools:** Git, GitHub, Docker, REST APIs
 
 ---
 
 ## 📂 Highlight Projects
 
-🔹 Fullstack applications (Node.js + React)
-🔹 Authentication systems (JWT)
-🔹 API integrations
-🔹 Real-world CRUD systems
+### 🔹 OralSync — Full Stack Clinical Platform
+- Node.js + TypeScript backend
+- React frontend
+- REST APIs + WebSockets (Socket.IO)
+- Real-time clinical monitoring system
 
-👉 Check pinned repositories for detailed implementations.
+### 🔹 ShopFlow — Java Spring Boot E-commerce API
+- Java 21 + Spring Boot
+- Spring Data JPA + PostgreSQL
+- Layered architecture (Controller / Service / Repository)
+- Dockerized backend
+
+### 🔹 Backend APIs & Systems
+- Authentication systems (JWT)
+- CRUD APIs with relational databases
+- Async processing and system design experiments
+
+👉 More details in pinned repositories.
 
 ---
 
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=Matheus9557\&show_icons=true\&theme=dark)
+![stats](https://github-readme-stats.vercel.app/api?username=Matheus9557&show_icons=true&theme=dark)
 
 ---
 
-## 🎯 Focus
+## 🎯 Current Focus
 
-Currently focused on:
-
-* Improving backend architecture
-* Building scalable APIs
-* Growing into a strong **mid-level (Pleno) developer**
+- Backend engineering with Node.js and Java
+- Scalable system architecture
+- Cloud fundamentals (AWS)
+- Advancing toward mid-level (Pleno) backend roles
 
 ---
 
 ## 📫 Contact
 
-* 💼 LinkedIn: https://www.linkedin.com/in/dev-matgomesp?utm_source=share_via&utm_content=profile&utm_medium=member_android
-* 📧 Email: [matheusgomespinto@hotmail.com](mailto:matheusgomespinto@hotmail.com)
-* 📸 Instagram: @matgomesp
+- 💼 LinkedIn: https://www.linkedin.com/in/dev-matgomesp
+- 📧 Email: matheusgomespinto@hotmail.com
+- 💻 GitHub: https://github.com/Matheus9557
