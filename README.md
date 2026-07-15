@@ -1,7 +1,8 @@
 # 👋 Matheus Gomes
 
-💻 Software Engineer | Backend-Focused Full Stack Developer
-⚙️ Node.js | Java | TypeScript | React | AWS
+💻 ***Software Engineer | Backend-Focused Full Stack Developer***  
+⚙️ ***Node.js | Java | TypeScript | React | AWS***
+
 🚀 Building scalable, maintainable and production-oriented systems
 
 ---
