@@ -187,5 +187,3 @@ https://www.linkedin.com/in/dev-matgomesp
 📧 Email:  
 matheusgomespinto@hotmail.com
 
-💻 GitHub:  
-https://github.com/Matheus9557
